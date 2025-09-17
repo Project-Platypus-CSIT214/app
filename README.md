@@ -1,4 +1,4 @@
-# app
+# app - Project 2
 
 # Build instructions
 
