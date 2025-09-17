@@ -1,0 +1,47 @@
+# Laravel specific
+platypus/vendor
+platypus/node_modules
+platypus/public/storage
+platypus/storage/*.key
+platypus/.idea
+platypus/.vscode
+platypus/.phpunit.result.cache
+platypus/Homestead.json
+platypus/Homestead.yaml
+platypus/.env
+platypus/.env.backup
+
+# Composer files
+platypus/composer.phar
+
+# NPM & Yarn
+platypus/npm-debug.log
+platypus/yarn-error.log
+platypus/yarn-debug.log
+platypus/package-lock.json
+platypus/yarn.lock
+
+# Laravel Mix / Vite
+platypus/public/hot
+platypus/public/build
+platypus/storage/framework/cache/data
+platypus/storage/framework/sessions
+platypus/storage/framework/views
+platypus/storage/logs
+
+platypus/bootstrap/cache
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDEs & editors
+*.code-workspace
+
+# Coverage reports
+platypus/coverage/
+platypus/phpunit.coverage.cache
+
+# Other
